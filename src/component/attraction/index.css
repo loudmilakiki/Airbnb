@@ -1,0 +1,15 @@
+ .attraction {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+ }
+
+ .attraction__list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+ }
+
+ .link {
+    color: #000;
+ }
